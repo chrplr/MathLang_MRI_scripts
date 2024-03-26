@@ -1,0 +1,6 @@
+[neurospin]
+dataset3T="/neurospin/unicog/protocols/MathBrain_Dehaene_2024/MathLang_MRI_data/3T/derivatives"
+dataset7T="/neurospin/unicog/protocols/MathBrain_Dehaene_2024/MathLang_MRI_data/7T/derivatives_nativespace"
+
+[christophe]
+
